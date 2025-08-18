@@ -27,9 +27,8 @@ header {
 color: plum;
 }
 section {
-  background-color:rgb(255,105,180);
+  background-color:rgb(250, 160, 205);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
-    border: 5px
 }
