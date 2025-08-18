@@ -15,7 +15,7 @@ img {
 }
 .categoria-videos img:hover {
   opacity: 1.0;
-  border: 1px solid plum;
+  border: 5px solid plum;
 }
 header {
     border-bottom: solid 2px plum;
