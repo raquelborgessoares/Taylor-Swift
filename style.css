@@ -17,3 +17,9 @@ img {
   opacity: 1.0;
   border: 1px solid plum;
 }
+header {
+    border-bottom: solid 2px rgb(165, 250, 169);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(165, 250, 169);
+}
