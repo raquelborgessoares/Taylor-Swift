@@ -23,3 +23,9 @@ header {
     font-size: 32px;
     color: plum;
 }
+section {
+    background: rgb(197, 255, 192);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
