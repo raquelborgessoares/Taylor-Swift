@@ -26,3 +26,9 @@ header {
 .categoria.cor{
 color: plum;
 }
+section {
+    background: pink;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
